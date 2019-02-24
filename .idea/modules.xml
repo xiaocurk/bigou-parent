@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigou_basic_parent/bigou_basic_parent.iml" filepath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/bigou_basic_util.iml" filepath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/bigou_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigou_config_server_1299/bigou_config_server_1299.iml" filepath="$PROJECT_DIR$/bigou_config_server_1299/bigou_config_server_1299.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigou_eureka_server_7001/bigou_eureka_server_7001.iml" filepath="$PROJECT_DIR$/bigou_eureka_server_7001/bigou_eureka_server_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigou_parent.iml" filepath="$PROJECT_DIR$/bigou_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_interface/bigou_plat_interface.iml" filepath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_interface/bigou_plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_parent.iml" filepath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/bigou_plat_service_8001.iml" filepath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/bigou_plat_service_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigou_zuul_server_9527/bigou_zuul_server_9527.iml" filepath="$PROJECT_DIR$/bigou_zuul_server_9527/bigou_zuul_server_9527.iml" />
+    </modules>
+  </component>
+</project>
