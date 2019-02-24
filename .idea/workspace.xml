@@ -124,11 +124,6 @@
             <path>
               <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
               <item name="bigou_config_server_1299" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -350,12 +345,12 @@
       <workItem from="1550914977053" duration="6135000" />
       <workItem from="1550970050830" duration="1667000" />
       <workItem from="1550975370598" duration="2373000" />
-      <workItem from="1550985752571" duration="347000" />
+      <workItem from="1550985752571" duration="427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17784000" />
+    <option name="totallyTimeSpent" value="17864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
