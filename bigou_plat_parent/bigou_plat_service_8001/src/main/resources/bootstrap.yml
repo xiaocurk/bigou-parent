@@ -1,0 +1,10 @@
+#配置本地的配置中心的地址和github上的相关信息
+spring:
+  cloud:
+    config:
+      uri: http://127.0.0.1:1299 #配置服务器
+      label: master #分支
+      name: application-plat-service #github上面名称
+      #sprofile: ${spring.profiles.active} #环境 key:value 在运行jar的时候的命令:
+      # java -jar -Dspring.profiles.active = dev xxx.jar
+      profile: dev
